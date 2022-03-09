@@ -11,7 +11,7 @@ const productsController = {
        .then(products => {
            let listProducts = [];
            products.map((product)=> {
-               listProducts.push({name: product.name , desription: product.description , price: product.price })
+               listProducts.push({name: product.name , desription: product.description , price: product.price, image: product.image })
            })
            let response = {
             meta: {
