@@ -1,0 +1,12 @@
+.mode ul {
+
+    margin: auto;
+
+}
+
+.mode ul button {
+    border-radius: 3px;
+    border: solid 2px orange;
+    color: orange;
+    font-weight: bold;
+}

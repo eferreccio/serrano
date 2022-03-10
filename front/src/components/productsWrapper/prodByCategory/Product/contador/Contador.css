@@ -1,0 +1,17 @@
+.main-contador {
+    display: flex;
+    justify-self: start;
+}
+
+.main-contador li {
+    margin-left: 8px;
+    align-self: center;
+    list-style: none;
+}
+
+.main-contador button {
+    border-radius: 3px;
+    border: solid 2px orange;
+    color: orange;
+    font-weight: bold;
+}

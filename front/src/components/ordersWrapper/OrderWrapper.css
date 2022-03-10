@@ -1,0 +1,22 @@
+.msg-order {
+    text-align: center;
+}
+
+.order-text {
+    width: 90vw;
+    height: 150px;
+    border-radius: 3px;
+    margin-left: 14px;
+}
+
+.order-buttom {
+    width: 90vw;
+    margin-left: 14px;
+    height: 40px;
+    font-weight: bold;
+    border-radius: 3px;
+    border: solid 2px orange;
+    background-color: orange;
+    font-size: 17px;
+    margin-top: 20px;
+}

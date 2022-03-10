@@ -1,0 +1,18 @@
+.main-product {
+    display: block;
+}
+
+.product-line {
+    display: flex;
+}
+
+.product-line li {
+    list-style: none;
+    align-self: center;
+}
+
+.img-prod {
+    height: 10vh;
+    margin-right: 20px;
+    border-radius: 6px;
+}
